@@ -1,0 +1,14 @@
+﻿.vscode/
+node_modules/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# OS files
+desktop.ini
